@@ -6,6 +6,11 @@
 
 Tugas Project Python Machine Learning Team 2
 
+1. Muhammad Raufan Umarulloh (20124075) - Project Manager
+2. Fauzi Rizky Maulana (20124087) - Data Science
+3. Vina Aulia Melianti (20124091) - Software Engineer
+4. Dini Sriastuti (20124097) - UI/UX Designer
+
 ## Project Organization
 
 ```
